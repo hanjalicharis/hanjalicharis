@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hanjalicharis
-- 👀 I’m interested in programming
-- 🌱 I’m currently working on full-stack web project and machine learning project
-- 💞️ I’m looking to collaborate on a some project
+
 - 📫 How to reach me; thehhare@gmail.com or @hanjalicharis on GitHub
 
 <!---
